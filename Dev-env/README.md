@@ -1,6 +1,6 @@
 # Dev-Env container
 
-*This is Docker contianer to use for creating the dev enviroment to launch the Jupyter-Lab*
+*This is Docker contianer use for creating the dev enviroment to launch the Jupyter-Lab*
 
 Add the packages name that need to pre-install in `requirement.txt` file.
 
