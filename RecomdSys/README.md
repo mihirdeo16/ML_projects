@@ -1,7 +1,11 @@
-# Recommandation System for Movies
+# Recommendation System for Movies
 ## *Deploy using Docker container and access through API requests:*
 
-Build and run the container using following steps
+**Pull the container from Docker-Hub**
+```shell
+docker pull asdfg8m8d/simple_recommendation_system_movies
+```
+Or build and run the container using following steps
 ```
 cd RecomdSys/
 docker build -t recommandationsystem .
